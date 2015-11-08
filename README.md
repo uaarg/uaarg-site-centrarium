@@ -31,6 +31,9 @@ This theme comes with a number of features, including:
 
 ## Installation
 
+`sudo gem install jekyll -v 2.5.3`
+`sudo gem install jekyll-archives jekyll-sitemap`
+
 First and foremost, install Jekyll, Jekyll Archives, and Jekyll Sitemap: `gem install jekyll jekyll-archives jekyll-sitemap`
 
 If you're just getting started with Jekyll, you can use this repository as a starting point for your own site. Just [download this project](https://github.com/bencentra/centrarium/archive/master.zip) and add all the files to your project. Add your blog posts to the `posts/` directory, and create your pages with the proper Jekyll front matter (see `posts.html` for an example).
