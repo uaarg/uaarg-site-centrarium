@@ -8,7 +8,7 @@ subtitle: "UAARG"
 email: uaarginfo@gmail.com
 description: > 
   University of Alberta Aerial Robotics Group
-baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
+baseurl: "/uaarg-site-centrarium" # the subpath of your site, e.g. /blog/
 url: "http://uaarg.com" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
